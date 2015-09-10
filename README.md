@@ -1,2 +1,2 @@
-# oil-www
+# open-innovation-lab
 OpenInnovationLab website
